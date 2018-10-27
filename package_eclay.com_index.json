@@ -10,12 +10,12 @@
         {
           "name": "eClay SAMD Boards (32-bits ARM Cortex-M0+)",
           "architecture": "samd",
-          "version": "0.0.1",
+          "version": "0.0.2",
           "category": "eClay",
-          "url": "https://github.com/eClay/ArduinoCore-samd/archive/v0.0.1.tar.gz",
-          "archiveFileName": "v0.0.1.tar.gz",
-          "checksum": "SHA-256:f9ffdca318b4374b5031181a8ef316df4e49f2c12fe043e4f5fd34f9cfad090c",
-          "size": "3532683",
+          "url": "https://github.com/eClay/ArduinoCore-samd/archive/v0.0.2.tar.gz",
+          "archiveFileName": "v0.0.2.tar.gz",
+          "checksum": "SHA-256:872ca7b6b5c0bba5346329c20872cec5e8782ad182c4889d03c3fa55e47bfea2",
+          "size": "3532375",
           "boards": [
             { "name": "eClay Minion (SAMD21)" }
           ],
