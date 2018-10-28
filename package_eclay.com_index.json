@@ -21,9 +21,9 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "arduino",
+              "packager": "ARM",
               "name": "arm-none-eabi-gcc",
-              "version": "4.8.3-2014q1"
+              "version": "7-2018-q2-update"
             },
             {
               "packager": "arduino",
@@ -59,35 +59,35 @@
           "systems": [
             {
               "host": "i386-apple-darwin11",
-              "checksum": "MD5:603bcce8e59683ac27054b3197a53254",
-              "size": "96372129",
+              "checksum": "MD5:a66be9828cf3c57d7d21178e07cd8904",
+              "size": "104503319",
               "archiveFileName": "gcc-arm-none-eabi-5_2-2015q4-20151219-mac.tar.bz2",
-              "url": "https://github.com/adafruit/Adafruit_nRF52_Arduino/releases/download/gcc-5_2-2015q4/gcc-arm-none-eabi-5_2-2015q4-20151219-mac.tar.bz2"
+              "url": "https://developer.arm.com/-/media/Files/downloads/gnu-rm/7-2018q2/gcc-arm-none-eabi-7-2018-q2-update-mac.tar.bz2"
             },
             {
               "host": "i686-linux-gnu",
-              "checksum": "MD5:f88caac80b4444a17344f57ccb760b90",
-              "size": "92811866",
-              "archiveFileName": "gcc-arm-none-eabi-5_2-2015q4-20151219-linux.tar.bz2",
-              "url": "https://github.com/adafruit/Adafruit_nRF52_Arduino/releases/download/gcc-5_2-2015q4/gcc-arm-none-eabi-5_2-2015q4-20151219-linux.tar.bz2"
+              "checksum": "MD5:299ebd3f1c2c90930d28ab82e5d8d6c0",
+              "size": "100600407",
+              "archiveFileName": "gcc-arm-none-eabi-7-2018-q2-update-linux.tar.bz2",
+              "url": "https://developer.arm.com/-/media/Files/downloads/gnu-rm/7-2018q2/gcc-arm-none-eabi-7-2018-q2-update-linux.tar.bz2"
             },
             {
               "host": "x86_64-pc-linux-gnu",
-              "checksum": "MD5:f88caac80b4444a17344f57ccb760b90",
-              "size": "92811866",
-              "archiveFileName": "gcc-arm-none-eabi-5_2-2015q4-20151219-linux.tar.bz2",
-              "url": "https://github.com/adafruit/Adafruit_nRF52_Arduino/releases/download/gcc-5_2-2015q4/gcc-arm-none-eabi-5_2-2015q4-20151219-linux.tar.bz2"
+              "checksum": "MD5:299ebd3f1c2c90930d28ab82e5d8d6c0",
+              "size": "100600407",
+              "archiveFileName": "gcc-arm-none-eabi-7-2018-q2-update-linux.tar.bz2",
+              "url": "https://developer.arm.com/-/media/Files/downloads/gnu-rm/7-2018q2/gcc-arm-none-eabi-7-2018-q2-update-linux.tar.bz2"
             },
             {
               "host": "i686-mingw32",
-              "checksum": "MD5:32d950225b6c7c886f6225c1fc578934",
-              "size": "102981732",
-              "archiveFileName": "gcc-arm-none-eabi-5_2-2015q4-20151219-win32.tar.bz2",
-              "url": "https://github.com/adafruit/Adafruit_nRF52_Arduino/releases/download/gcc-5_2-2015q4/gcc-arm-none-eabi-5_2-2015q4-20151219-win32.tar.bz2"
+              "checksum": "MD5:bc8ae26d7c429f30d583a605a4bcf9bc",
+              "size": "130852021",
+              "archiveFileName": "gcc-arm-none-eabi-7-2018-q2-update-win32.zip",
+              "url": "https://developer.arm.com/-/media/Files/downloads/gnu-rm/7-2018q2/gcc-arm-none-eabi-7-2018-q2-update-win32.zip"
             }
           ],
           "name": "gcc-arm-none-eabi",
-          "version": "5_2-2015q4"
+          "version": "7-2018-q2-update"
         }
       ]
     }
