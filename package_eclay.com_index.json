@@ -22,7 +22,7 @@
           "toolsDependencies": [
             {
               "packager": "arduino",
-              "name": "arm-none-eabi-gcc",
+              "name": "gcc-arm-none-eabi",
               "version": "7-2018-q2-update"
             }
           ]
