@@ -32,7 +32,7 @@
       "tools": [
         {
           "name": "gcc-arm-none-eabi",
-          "version": "7-2018-q2-update"
+          "version": "7-2018-q2-update",
           "systems": [
             {
               "host": "i386-apple-darwin11",
@@ -62,7 +62,7 @@
               "archiveFileName": "gcc-arm-none-eabi-7-2018-q2-update-win32.zip",
               "url": "https://developer.arm.com/-/media/Files/downloads/gnu-rm/7-2018q2/gcc-arm-none-eabi-7-2018-q2-update-win32.zip"
             }
-          ],
+          ]
         }
       ]
     }
